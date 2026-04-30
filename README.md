@@ -21,6 +21,7 @@ La aplicacion es estatica y simula la interfaz de una app real para gestionar ta
 La aplicacion se adapta a diferentes tamaños de pantalla:
 
 -Movil 
+
 -Escritorio
 
 Se ha utilizado flexboc y media querias para lograrlo. 
