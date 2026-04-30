@@ -11,7 +11,7 @@ La aplicacion es estatica y simula la interfaz de una app real para gestionar ta
 
 # Funcionalidad
 
--Campo para añadirtareas
+-Campo para añadir tareas
 
 -Lista de tareas con checkbox
 
